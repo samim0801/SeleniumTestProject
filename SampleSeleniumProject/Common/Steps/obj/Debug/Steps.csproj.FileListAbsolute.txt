@@ -1,0 +1,16 @@
+D:\Projects\SampleSeleniumProject\ExecutionSteps\bin\Debug\ExecutionSteps.dll
+D:\Projects\SampleSeleniumProject\ExecutionSteps\bin\Debug\ExecutionSteps.pdb
+D:\Projects\SampleSeleniumProject\ExecutionSteps\bin\Debug\Validation.dll
+D:\Projects\SampleSeleniumProject\ExecutionSteps\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\SampleSeleniumProject\ExecutionSteps\bin\Debug\Validation.pdb
+D:\Projects\SampleSeleniumProject\ExecutionSteps\obj\Debug\Steps.csprojResolveAssemblyReference.cache
+D:\Projects\SampleSeleniumProject\ExecutionSteps\obj\Debug\ExecutionSteps.dll
+D:\Projects\SampleSeleniumProject\ExecutionSteps\obj\Debug\ExecutionSteps.pdb
+D:\Projects\SampleSeleniumProject\Common\Steps\bin\Debug\ExecutionSteps.dll
+D:\Projects\SampleSeleniumProject\Common\Steps\bin\Debug\ExecutionSteps.pdb
+D:\Projects\SampleSeleniumProject\Common\Steps\bin\Debug\Validation.dll
+D:\Projects\SampleSeleniumProject\Common\Steps\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\SampleSeleniumProject\Common\Steps\bin\Debug\Validation.pdb
+D:\Projects\SampleSeleniumProject\Common\Steps\obj\Debug\Steps.csprojResolveAssemblyReference.cache
+D:\Projects\SampleSeleniumProject\Common\Steps\obj\Debug\ExecutionSteps.dll
+D:\Projects\SampleSeleniumProject\Common\Steps\obj\Debug\ExecutionSteps.pdb

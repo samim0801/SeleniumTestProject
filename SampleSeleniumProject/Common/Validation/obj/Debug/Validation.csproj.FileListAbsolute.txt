@@ -1,0 +1,6 @@
+D:\Projects\SampleSeleniumProject\Validation\bin\Debug\Validation.dll
+D:\Projects\SampleSeleniumProject\Validation\bin\Debug\Validation.pdb
+D:\Projects\SampleSeleniumProject\Validation\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\SampleSeleniumProject\Validation\obj\Debug\Validation.dll
+D:\Projects\SampleSeleniumProject\Validation\obj\Debug\Validation.pdb
+D:\Projects\SampleSeleniumProject\Validation\obj\Debug\Validation.csprojResolveAssemblyReference.cache

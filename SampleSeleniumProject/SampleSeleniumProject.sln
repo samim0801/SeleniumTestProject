@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleSeleniumProject", "SampleSeleniumProject\SampleSeleniumProject.csproj", "{0AB0A931-18E8-4655-9893-F5A9FF43415E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APITestProject", "APITestProject\APITestProject.csproj", "{AA8AAC16-3A57-4A53-B618-26E664936DE4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{AB4DB136-95A2-4F51-A451-B5F1E7B267B8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Validation", "Validation", "{81AB7706-DCE2-40C5-B5A3-D204589E5BDE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Steps", "Steps", "{D500ED1B-16CD-477E-8C69-A546540F29DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Steps", "Common\Steps\Steps.csproj", "{430D78AD-1C68-4F20-944A-BAD78D95A6DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validation", "Common\Validation\Validation.csproj", "{A7F6A322-81D2-4A27-990E-34237101BAFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AB0A931-18E8-4655-9893-F5A9FF43415E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB0A931-18E8-4655-9893-F5A9FF43415E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB0A931-18E8-4655-9893-F5A9FF43415E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB0A931-18E8-4655-9893-F5A9FF43415E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA8AAC16-3A57-4A53-B618-26E664936DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA8AAC16-3A57-4A53-B618-26E664936DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA8AAC16-3A57-4A53-B618-26E664936DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA8AAC16-3A57-4A53-B618-26E664936DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{430D78AD-1C68-4F20-944A-BAD78D95A6DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{430D78AD-1C68-4F20-944A-BAD78D95A6DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{430D78AD-1C68-4F20-944A-BAD78D95A6DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{430D78AD-1C68-4F20-944A-BAD78D95A6DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7F6A322-81D2-4A27-990E-34237101BAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F6A322-81D2-4A27-990E-34237101BAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F6A322-81D2-4A27-990E-34237101BAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F6A322-81D2-4A27-990E-34237101BAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{81AB7706-DCE2-40C5-B5A3-D204589E5BDE} = {AB4DB136-95A2-4F51-A451-B5F1E7B267B8}
+		{D500ED1B-16CD-477E-8C69-A546540F29DA} = {AB4DB136-95A2-4F51-A451-B5F1E7B267B8}
+		{430D78AD-1C68-4F20-944A-BAD78D95A6DB} = {D500ED1B-16CD-477E-8C69-A546540F29DA}
+		{A7F6A322-81D2-4A27-990E-34237101BAFC} = {81AB7706-DCE2-40C5-B5A3-D204589E5BDE}
+	EndGlobalSection
+EndGlobal
